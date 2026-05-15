@@ -1,6 +1,8 @@
 # fasthook-log
 
-Local HTTP request logger for testing FastHook tunnel deliveries.
+Local HTTP request logger for testing FastHook tunnel deliveries from [www.fasthook.io](https://www.fasthook.io).
+
+Use this repository together with `fasthook-cli` when you want to inspect webhook deliveries from a FastHook CLI destination.
 
 It prints the request method, URL, headers, and body, then responds with:
 
